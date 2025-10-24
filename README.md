@@ -9,7 +9,7 @@ This web app randomly assigns Secret Santa pairs — making gift exchanges easy 
 - Randomly assigns each participant a Secret Santa.
 - Prevents anyone from picking themselves.
 - Simple, colorful Christmas-themed design with falling snow.
-- Works completely in the browser — no setup needed.
+- Works completely in the browser — no setup need
 
 ---
 
